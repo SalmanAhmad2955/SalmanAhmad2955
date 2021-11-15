@@ -107,21 +107,21 @@
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ubuntu
+      <br>Python
     </td>
      <td align="center" width="96">
       <a href="#digitalocean">
-        <img src="https://image.pngaaa.com/229/5858229-middle.png" width="48" height="48" alt="Digital Ocean" />
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
-      <br>Digital Ocean
+      <br>Mongodb
     </td>
       <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>Github
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
@@ -137,9 +137,9 @@
     </td>
       <td align="center" width="96">
       <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>VuePress
+      <br>React
     </td>
   </tr>
 </table>
