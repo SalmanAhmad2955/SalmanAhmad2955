@@ -1,12 +1,12 @@
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Salman </h1>
-<h3 align="center">I am a Full Stack Web Developer from Germany. I'm working on node.js, express.js, react, puppeteer.js & REST API.</h3>
+<h3 align="center">I am a Full Stack Web Developer, Software Engineer from Germany. I'm working on node.js, express.js, react, puppeteer.js & REST API.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
+- 🔭 I’m currently a Student at TU Chemnitz
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
+- 🌱 I’m doing MS Automotive Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://salmanahmad2955.github.io/](https://salmanahmad2955.github.io/)
 
