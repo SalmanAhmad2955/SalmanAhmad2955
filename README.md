@@ -64,7 +64,7 @@
     </td>
   </tr>
 
-  <tr>
+<!--   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
@@ -103,7 +103,7 @@
         </a>
         <br>Alpine JS
     </td>
-  </tr>
+  </tr> -->
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
@@ -113,7 +113,7 @@
     </td>
      <td align="center" width="96">
       <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+        <img src="https://image.pngaaa.com/229/5858229-middle.png" width="48" height="48" alt="Digital Ocean" />
       </a>
       <br>Digital Ocean
     </td>
