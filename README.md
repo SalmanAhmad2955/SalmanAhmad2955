@@ -50,17 +50,17 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>Vue JS
+      <br>MySQL/NoSQL
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#ts">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Nuxt JS
+      <br>TypeScript
     </td>
   </tr>
 
