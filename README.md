@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a Student at TU Chemnitz
 
-- 🌱 I’m doing MS Automotive Software Engineering**
+- 🌱 I’m doing MS Automotive Software Engineering
 
 - 👨‍💻 All of my projects are available at [https://salmanahmad2955.github.io/](https://salmanahmad2955.github.io/)
 
