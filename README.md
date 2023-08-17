@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://salmanahmad2955.github.io/](https://salmanahmad2955.github.io/)
 
 
-- 📫 How to reach me **salman.bsse2955@gmail.com**
+- 📫 How to reach me **salmana171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
